@@ -29,6 +29,6 @@ public class FirstUniqueCharacterInString {
     public static void main(String[] args) {
         FirstUniqueCharacterInString firstUniqueCharacterInString=new FirstUniqueCharacterInString();
         String str="hhelloo";
-        firstUniqueCharacterInString.returnFirstUniqueCharacter(str);
+        System.out.println(str.charAt(firstUniqueCharacterInString.returnFirstUniqueCharacter(str)));
     }
 }
