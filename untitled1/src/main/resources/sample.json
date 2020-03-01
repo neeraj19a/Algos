@@ -1,0 +1,19 @@
+{
+  "personalDetails": {
+    "name": "Lorem ipsum",
+    "dob": "12JUL64"
+  },
+  "passportDetails": {
+    "nationality": "IN",
+    "expirationDate": "25JAN2023"
+  },
+  "communicationDetails": {
+    "address": "123, block C",
+    "state": "Haryana",
+    "country": "India",
+    "contactDetails": {
+      "phoneNumber": "12345678",
+      "email": "test@gmail.com"
+    }
+  }
+}
