@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe855b79-b4b7-42c4-b7ce-7c57dc1f35da" name="Default Changelist" comment="" />
+    <list default="true" id="fe855b79-b4b7-42c4-b7ce-7c57dc1f35da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuyandSellMaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/BuyandSellMaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonElementInThreeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/CommonElementInThreeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertUpperCaseToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/ConvertUpperCaseToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DutchNationalFlagAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/DutchNationalFlagAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTripletSumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/FindTripletSumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstDuplicateCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/FirstDuplicateCharacter_PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstNonRepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/FirstNonRepeatingElement__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstUniqueCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/FirstUniqueCharacterInString__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/GroupAnagram__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/IntersectionofTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/JewelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeaderInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/LeaderInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NeedsPractice/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestWordInDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/LongestWordInDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxSumSubArray_KadanesAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/MaxSumSubArray_KadanesAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/MergeTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/PriorityQueueExample__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseOnlyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/ReverseOnlyCharacters__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/SortArrayByParity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/SumOfTwo__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidMountArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/ValidMountArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartialDone/ValidParenthesis__PD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,10 +47,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="KotlinCompilerWorkspaceSettings">
     <option name="preciseIncrementalEnabled" value="false" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1V49IHCPdLnLujrrPncx3KcuEBq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,39 +65,44 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
-  <component name="RunManager" selected="Application.ValidMountArray">
-    <configuration name="BuddyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuddyString" />
+  <component name="RunManager" selected="Application.FindAllAnagramsInString">
+    <configuration name="FindAllAnagramsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsInString" />
       <module name="Algos1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonElementInThreeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonElementInThreeSortedArray" />
+    <configuration name="MinimumRemovetoMakeValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumRemovetoMakeValidParentheses" />
       <module name="Algos1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstUniqueCharacterInString" />
+    <configuration name="RotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateString" />
       <module name="Algos1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMountArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidMountArray" />
+    <configuration name="SplitStringInBalancedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SplitStringInBalancedString" />
       <module name="Algos1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidParenthesis" />
+    <configuration name="WordThatCanBeFormedByCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordThatCanBeFormedByCharacters" />
       <module name="Algos1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidMountArray" />
-        <item itemvalue="Application.BuddyString" />
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.FirstUniqueCharacterInString" />
-        <item itemvalue="Application.CommonElementInThreeSortedArray" />
+        <item itemvalue="Application.FindAllAnagramsInString" />
+        <item itemvalue="Application.SplitStringInBalancedString" />
+        <item itemvalue="Application.RotateString" />
+        <item itemvalue="Application.WordThatCanBeFormedByCharacters" />
+        <item itemvalue="Application.MinimumRemovetoMakeValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -99,58 +144,80 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Notifications" timestamp="1576501458242">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576501458242" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1576855252008">
+    <state x="484" y="261" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589623590223">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576855252008" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1576855252008">
+    <state x="484" y="261" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1589623590223" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589610978577">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576855252008" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1576855252008">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1589610978577" />
+    <state x="413" y="120" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589700728588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576855252008" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1576855252008">
+    <state x="413" y="120" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.738@0.0.1366.738" timestamp="1589700728588" />
+    <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1589614242688">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576855252008" />
-    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1576854368985">
+    <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589614242688" />
+    <state width="1323" height="154" key="GridCell.Tab.0.bottom" timestamp="1589714908654">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576854368985" />
-    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1576854368985">
+    <state width="1323" height="154" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589714908654" />
+    <state width="1323" height="154" key="GridCell.Tab.0.center" timestamp="1589714908654">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1576854368985" />
-    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1576854368985">
+    <state width="1323" height="154" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589714908654" />
+    <state width="1323" height="154" key="GridCell.Tab.0.left" timestamp="1589714908653">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1576854368985" />
-    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1576854368985">
+    <state width="1323" height="154" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589714908653" />
+    <state width="1323" height="154" key="GridCell.Tab.0.right" timestamp="1589714908654">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1576854368985" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1576675446626">
+    <state width="1323" height="154" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589714908654" />
+    <state width="1323" height="160" key="GridCell.Tab.1.bottom" timestamp="1589712565483">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576675446626" />
-    <state x="391" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1577101913973">
+    <state width="1323" height="160" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589712565483" />
+    <state width="1323" height="160" key="GridCell.Tab.1.center" timestamp="1589712565483">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576501422610" />
-    <state x="391" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1577101913973" />
-    <state x="65" y="0" key="new project wizard" timestamp="1576902884615">
+    <state width="1323" height="160" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589712565483" />
+    <state width="1323" height="160" key="GridCell.Tab.1.left" timestamp="1589712565483">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1576902884615" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1576840625048">
+    <state width="1323" height="160" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589712565483" />
+    <state width="1323" height="160" key="GridCell.Tab.1.right" timestamp="1589712565483">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1576840625048" />
+    <state width="1323" height="160" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589712565483" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589614276659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1589614276659" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1588680728866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1588680728866" />
+    <state x="390" y="125" width="586" height="488" key="find.popup" timestamp="1589119652797">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="125" width="586" height="488" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1589119652797" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1589704404703">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1589704404703" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RotateString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
